@@ -44,4 +44,8 @@ Missing Word Prompting:
 
 OUTPUT:
 
+https://github.com/kelvinprabhu07-spec/Prompt-Engineering-EXP.NO-3/blob/main/EX03_Exploring_Prompt_Types%20(1)%20(1).pdf
+
 RESULT: 
+
+The experiment was successfully completed by creating prompts for four different prompt types: Straightforward Prompts, Tabular Format Prompting, Preceding Question Prompting, and Missing Word Prompting. Two different use cases were developed for each prompt type to demonstrate their practical applications. The activity helped in understanding how different prompt structures influence the quality, clarity, and format of AI-generated responses. It also improved prompt engineering skills and provided insights into selecting appropriate prompting techniques for various tasks and scenarios.
